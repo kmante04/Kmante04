@@ -18,6 +18,6 @@ I am an avid learner who is always looking for ways to grow and to better serve 
 - 📫 How to reach me: nanakwadwomante@gmail.com
 - ⚡ Fun fact: I love listening to classical music
 </br> 
-- <!--START_SECTION:waka-->
-- <!-- ![Kwadwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmante04&show_icons=true&theme=radical) -->
-- <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!-- ![Kwadwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmante04&show_icons=true&theme=radical) -->
+<!--END_SECTION:waka-->
